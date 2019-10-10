@@ -4,3 +4,5 @@ The Black Death, also known as the Great Plague or the Plague, or less commonly 
 
 ## Pandemics
 A pandemic is an outbreak of global proportions. It happens when a bacterium or novel virus becomes capable of spreading rapidly. It causes serious illness and can spread easily from one person to the next. The word pandemic comes from the Greek pandemos meaning "pertaining to all people."
+
+A pandemic is an epidemic of disease that has spread across a large region.
